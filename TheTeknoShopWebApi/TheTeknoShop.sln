@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheTeknoShopWebApi", "TheTeknoShopWebApi\TheTeknoShopWebApi.csproj", "{59F74B7D-E49E-4113-A9BC-E3FFAC9AD1D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTeknoShop.Common", "TheTeknoShop.Common\TheTeknoShop.Common.csproj", "{38705682-6801-4735-9A9C-D1250FCE940C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTeknoShop.Data", "TheTeknoShop.Data\TheTeknoShop.Data.csproj", "{6A3F572A-F5DF-4579-A9AE-689CB3091DF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTeknoShop.Services", "TheTeknoShop.Services\TheTeknoShop.Services.csproj", "{3A262EA1-B714-4379-834F-D0E53165C0DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTeknoShop.Mapping", "TheTeknoShop.Mapping\TheTeknoShop.Mapping.csproj", "{2A28EFC1-0446-41E5-9C2B-CA4713D78DD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTeknoShop.Dtos", "TheTeknoShop.Dtos\TheTeknoShop.Dtos.csproj", "{FA8C1F82-CA2C-4991-ACF0-57A2DB424911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59F74B7D-E49E-4113-A9BC-E3FFAC9AD1D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F74B7D-E49E-4113-A9BC-E3FFAC9AD1D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F74B7D-E49E-4113-A9BC-E3FFAC9AD1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F74B7D-E49E-4113-A9BC-E3FFAC9AD1D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38705682-6801-4735-9A9C-D1250FCE940C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38705682-6801-4735-9A9C-D1250FCE940C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38705682-6801-4735-9A9C-D1250FCE940C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38705682-6801-4735-9A9C-D1250FCE940C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A3F572A-F5DF-4579-A9AE-689CB3091DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3F572A-F5DF-4579-A9AE-689CB3091DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3F572A-F5DF-4579-A9AE-689CB3091DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3F572A-F5DF-4579-A9AE-689CB3091DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A262EA1-B714-4379-834F-D0E53165C0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A262EA1-B714-4379-834F-D0E53165C0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A262EA1-B714-4379-834F-D0E53165C0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A262EA1-B714-4379-834F-D0E53165C0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A28EFC1-0446-41E5-9C2B-CA4713D78DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A28EFC1-0446-41E5-9C2B-CA4713D78DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A28EFC1-0446-41E5-9C2B-CA4713D78DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A28EFC1-0446-41E5-9C2B-CA4713D78DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8C1F82-CA2C-4991-ACF0-57A2DB424911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8C1F82-CA2C-4991-ACF0-57A2DB424911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8C1F82-CA2C-4991-ACF0-57A2DB424911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8C1F82-CA2C-4991-ACF0-57A2DB424911}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2AC45E0-928F-4202-B888-115B807A543C}
+	EndGlobalSection
+EndGlobal
